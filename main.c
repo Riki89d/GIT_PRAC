@@ -1,12 +1,9 @@
 #include "guarra.h"
 
 int main(){
-if( ALASFDÑSDAFLNSDFGRD);SMDNG.AND 
 
-asdljkansd
+printf("Branca neta");
 
-tio que tonto
-
-return 0;
+return 1;
 
 }
