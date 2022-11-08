@@ -2,6 +2,14 @@
 
 void ferMitjana();
 
+uint8_t fuckyeah;
+
+void watchdog(){
+
+
+fuck();
+}
+
 int main(){
 
 printf("Branca neta");
