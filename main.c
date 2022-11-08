@@ -25,3 +25,7 @@ int a,b,m;
 
 m = (a+b)/m;
 }
+
+void INTERRUPT (void ){
+	printf("Aixo es una interrupcio");
+}
